@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=eamesh&&show_icons=true&theme=dracula" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=eamesh&&show_icons=true&theme=dark" />
 
 ### Hi! guys 👋 我是太年轻
 
